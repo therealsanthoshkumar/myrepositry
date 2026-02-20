@@ -1,4 +1,3 @@
-# Bharath AI SoC Hackathon PS5
 # 🗑️ Edge-AI Waste Classification on FPGA
 ### MobileNetV2 · INT8 Quantization · Xilinx KRIA KV260 · Vitis-AI 3.5
 
